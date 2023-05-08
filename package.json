@@ -1,7 +1,7 @@
 {
-  "name": "lotide",
+  "name": "@muhtasim.yasser/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "A mini clone of the lodash library",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/i8Raffles/lotide.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Md Muhtasim Yasser <muhtasimyasser@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/i8Raffles/lotide/issues"
